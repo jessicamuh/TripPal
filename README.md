@@ -6,3 +6,8 @@ Vision Document: https://github.com/jessicamuh/TripPal/blob/main/Vision%20Docume
 DevOps Azure for Backlog: https://dev.azure.com/jmuh/TripPal/_backlogs/backlog/TripPal%20Team/Issues  </br>
 Rational on how our Backlog was ordered: https://github.com/jessicamuh/TripPal/blob/main/Backlog%20Documentation.docx </br>
 Prototype: https://github.com/jessicamuh/TripPal/blob/main/trippal.pptx
+
+
+
+</br>
+Sprint 1 is located here: https://github.com/jessicamuh/TripPal/wiki/Sprint-1
